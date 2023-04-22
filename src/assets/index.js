@@ -29,7 +29,7 @@ import threejs from "./tech/threejs.svg";
 
 import emali from "./company/emali.png";
 import emaliStore from "./company/emaliStore.png";
-import emaliAdmin from "./company/emali_admin.png";
+import emaliAdmin from "./company/emaliAdmin.png";
 import maskani from "./company/maskani.png";
 
 import chandarana from "./company/chandarana.jpg";
